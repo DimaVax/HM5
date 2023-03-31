@@ -137,3 +137,18 @@ body {
     line-height: 30px;
     color: #757575;
 }
+.main-section-logo {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+}
+.main-section-text{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #757575;
+}

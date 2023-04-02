@@ -4,100 +4,85 @@ body {
 
 .header-logo {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
-    color:#2196F3 ;
+    line-height: 1.19;
+    color: #2196F3;
+
 }
 
 .header-list {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
+    line-height: 1.14;
     color: #212121;
 }
 
 .header-text {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     color: #757575;
 }
 
 .main-logo {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     color: #fff;
+    text-align: center;
 }
 
 .main-button {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.875;
     color: #fff;
     background-color: #2196F3;
 }
 
 .main-item-text {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #757575;
 }
 
 .main-item-logo {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     color: #212121;
 }
 
 .main-logo2 {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     color: #212121;
+    text-align: center;
 }
 
 .main-logo3 {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
+    color: #212121;
+    text-align: center;
 }
 
 .footer-adr {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #fff;
 }
 
 .footer-item {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
-    color: rgba(255, 255, 255, 0.6);
+    line-height: 1.71;
+    color: gray;
 }
 
 .header-item:hover {
@@ -109,11 +94,9 @@ body {
 }
 
 .main-button-portfolio {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.625;
 }
 
 .main-button-portfolio:hover {
@@ -122,44 +105,40 @@ body {
 }
 
 .main-cards-logo {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
 }
 
 .main-cards-text {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.875;
     color: #757575;
 }
 .main-section-logo {
-        font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1.19;
 }
 .main-section-text{
-        font-family: 'Roboto';
-        font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1.19;
         color: #757575;
 }
 .logo-span{
-        font-family: 'Raleway';
-        font-style: normal;
         font-weight: 700;
         font-size: 26px;
-        line-height: 31px;
+        line-height: 1.19;
         color: black;
 }
 .logo-span2{
     color: #fff;
+}
+.footer{
+  background-color:#2F303A;
+}
+.main-section-buy{
+    background-color: #2F303A;
 }

@@ -1,14 +1,15 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-
+a{
+    text-decoration: none;
+}
 .header-logo{
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
     color: #2196F3;
-    text-decoration: none;
 }
 
 .header-link {
@@ -16,7 +17,9 @@ body {
     font-size: 14px;
     line-height: 1.14;
     color: #212121;
-    text-decoration: none;
+}
+.header-link:hover {
+    color: #2196F3; 
 }
 
 .header-text {
